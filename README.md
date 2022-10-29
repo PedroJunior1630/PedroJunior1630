@@ -1,6 +1,8 @@
-- 👋 _Olá seja bem-vindo eu sou_ **@PedroJunior1630** 🙂
+
+---
+ ### 👋 _Olá seja bem-vindo eu sou_ **@PedroJunior1630** 🙂
 - _**Um programador jovem sempre buscando o conhecimento e evolução**_
-- ---
+---
 👀 Estou interessado em:
   1. Desenvolvimento de sites 🚀
   2. Desenvolvimento de jogos 🕹️
