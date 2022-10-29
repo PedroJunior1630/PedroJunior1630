@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @PedroJunior1630
-- 👀 Estou interessado em Ciência de dados
-- 🌱 Estou aprendendo Desenvolvimento de sites
-- 💞️ Eu procuro colaborar em novas start-up
-- 📫 Como chegar até mim: ph751153@gmail.com
+- 👋 _Olá seja bem-vindo eu sou_ **@PedroJunior1630** 🙂
+- _**Um programador jovem sempre buscando o conhecimento e evolução**_
+- ---
+👀 Estou interessado em:
+  1. Desenvolvimento de sites 🚀
+  2. Desenvolvimento de jogos 🕹️
+  3. Ciência de dados 🖥️🖱️
+---
+- 🌱 Estou apredendo **novas linguagens** 💡
+- 💞️ Eu procuro colaborar em novas start-up para aumentar minha *experiência* no mercado ⏲️
+- 📫 Contato até min via *email* 📧:  _ph751153@gmail.com_
 
 <!---
 PedroJunior1630/PedroJunior1630 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
