@@ -10,7 +10,7 @@
 ---
 - 🌱 Estou apredendo **novas linguagens** 💡
 - 💞️ Eu procuro colaborar em novas start-up para aumentar minha *experiência* no mercado ⏲️
-- 📫 Contato até min via *email* 📧:  _ph751153@gmail.com_
+- 📫 Contato até min via *email* 📧:  _pedrohfw16@gmail.com_
 
 <!---
 PedroJunior1630/PedroJunior1630 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
