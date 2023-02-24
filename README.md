@@ -11,7 +11,7 @@
 - 💞️ Eu procuro colaborar em novas start-up para aumentar minha *experiência* no mercado ⏲️
 - 📫 Contato até min:
 - Via *email* 📧:  **_pedrohfw16@gmail.com_**
-- Via *Instagram* : [@ph_dev_](www.instagram.com/ph_dev_/)
+- Via *Instagram* : [@ph_dev_](instagram.com/ph_dev_/)
 - *LinkedIn*: [pedro-h-dev](https://www.linkedin.com/in/pedro-h-dev/)
 
 <!---
