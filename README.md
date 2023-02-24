@@ -11,8 +11,8 @@
 - 💞️ Eu procuro colaborar em novas start-up para aumentar minha *experiência* no mercado ⏲️
 - 📫 Contato até min:
 - Via *email* 📧:  **_pedrohfw16@gmail.com_**
-- Via *Instagram* : **@ph_dev_**
-- *LinkedIn*: **www.linkedin.com/in/pedro-h-dev**
+- Via *Instagram* : 
+- *LinkedIn*: [pedro-h-dev](www.linkedin.com/in/pedro-h-dev)
 
 <!---
 PedroJunior1630/PedroJunior1630 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
