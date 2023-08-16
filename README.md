@@ -8,9 +8,9 @@
   3. Ciência de dados 🖥️🖱️
 ---
 - 🌱 Estou apredendo **novas linguagens** 💡
-- 💞️ Eu procuro colaborar em novas start-up para aumentar minha *experiência* no mercado ⏲️
+- 💞️ Eu procuro entrar no mercado para adquirir experiência como full-stack⏲️
 - 📫 Contato até min:
-- Via *email* 📧:  **_pedrohfw16@gmail.com_**
+- Via *email* 📧:  **_ph751153@gmail.com_**
 - Via *Instagram* : [@ph_dev_](https://www.instagram.com/ph_dev_/)
 - *LinkedIn*: [pedro-h-dev](https://www.linkedin.com/in/pedro-h-dev/)
 
