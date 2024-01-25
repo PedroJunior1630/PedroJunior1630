@@ -7,8 +7,8 @@
   2. Desenvolvimento de jogos 🕹️
   3. Ciência de dados 🖥️🖱️
 ---
-- 🌱 Estou apredendo **novas linguagens** 💡
-- 💞️ Eu procuro entrar no mercado para adquirir experiência como full-stack⏲️
+- 🌱 Sempre aprendendo **novas tecnologias** 💡
+- 💞️ Eu procuro entrar no mercado para adquirir experiência como programador junior⏲️
 - 📫 Contato até min:
 - Via *email* 📧:  **_ph751153@gmail.com_**
 - Via *Instagram* : [@ph_dev_](https://www.instagram.com/ph_dev_/)
